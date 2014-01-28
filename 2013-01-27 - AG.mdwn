@@ -42,7 +42,7 @@ Absents :
 
 Année scolaire pour les adhésions.
 
-Gestion collégiale : une collectif partage les responsabilités de
+Gestion collégiale : un collectif partage les responsabilités de
 Président et de Trésorier.
 
 # Fonctionnement du collectif
@@ -51,6 +51,11 @@ Partage des responsabilités : difficultés.
 
 Les membres se doivent d'être présents et joignables pour dire s'ils
 acceptent ou non que l'association s'engage dans des activités.
+
+## Candidats au Collectif
+
+- Baptou
+- Laurent (pour faire la Trésorerie).
 
 # Bilan 2012-2013
 
@@ -65,7 +70,7 @@ Beaucoup de Coins Folks sur l'année.
 
 # Bilan 1er semestre 2013-2014
 
-- Festival Cirque
+- Festiv'Arts Fait son Cirque
 - Jardin d'Utopie
 - Apéro à la Bobine
 - Bal Folk Trace Jaune
@@ -100,7 +105,7 @@ pour faire un petit bal. (Pierrot se propose avec sa vielle.)
 
 Souhait de *Zou La Bach'* de pouvoir jouer de temps en temps.
 
-Festiv'Arts cherche des musiciens à faire des animations dans la
+Festiv'Arts cherche des musiciens pour faire des animations dans la
 *Maison des Habitants*.
 
 # Projet 2014-2015
@@ -120,18 +125,14 @@ Dépenses : 234.23€
 - Assurance : 150.23€
 - Banque    :  84.00€
 
-Recettes : 488€
+Recettes : 488.63€
 - Ancienne trésorerie : 423.63€
-- Adhésion            :  30.00€
+- Adhésion            :  65.00€
 
 # Membres actifs
 
-Membre du Collectif officieux.
+= membres du Collectif officieux.
 
-- Marielle (informatique)
 - Jérémie (un peu plus au courant des choses)
-
-# Candidats au Collectif
-
-- Baptou
-- Laurent (pour faire la Trésorerie).
+- Marielle (informatique)
+- Pierrot (futur candidat au Collectif)
