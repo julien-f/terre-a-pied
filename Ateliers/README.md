@@ -19,8 +19,10 @@
 
 ### Idées
 
+- bourrée du Morvan
 - branle de la vallée d'Ossau
 - danses italiennes
 - fandango
 - poitou
+- polska / slang polska / schottis
 - sauts basques
